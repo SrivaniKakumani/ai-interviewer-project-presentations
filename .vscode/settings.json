@@ -1,0 +1,8 @@
+{
+  "git.suggestSmartCommit": false,
+
+  "python.defaultInterpreterPath": "C:\\Users\\kakum\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+
+  "python.terminal.activateEnvironment": true,
+  "python.terminal.useEnvFile": true
+}
